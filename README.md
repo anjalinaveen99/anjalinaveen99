@@ -7,20 +7,23 @@ Product & Product Analytics
 AI / ML
 Software QA (including Test Automation)
 
-⚡ Technologies & Tools
+⚡ Technologies & Tools:
+
 Programming & Scripting: Python, SQL, Java, JavaScript
 Data & Analytics: Pandas, NumPy, Excel, Power BI, Tableau
 Web & App Development: HTML/CSS, React, React Native, Node.js
 Databases & Cloud: MySQL, PostgreSQL, MongoDB, Databricks, basic AWS
 QA & Project Management: Manual Testing, JIRA, Postman, Git/GitHub, CI/CD, Agile/Scrum
 
-🔭 Projects
+🔭 Projects:
+
 Financial Data Prediction Engine – Live Python system predicting financial trends
 ML-Based Shilling Attack Detector – Detects fraudulent behavior in e-commerce platforms
 Music Festival MySQL Database – Complete relational database system
 Connect 4 AI – Built using Minimax with Alpha–Beta pruning
 
-💼 Experience
+💼 Experience:
+
 Business Data Analyst – Analytics & reporting
 Software Testing Intern – QA and automation
 IT Project Coordinator Intern – Cross-functional project delivery
