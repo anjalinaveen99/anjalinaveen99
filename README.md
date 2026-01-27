@@ -1,33 +1,34 @@
-Hi there 👋 I'm Anjali Panchani
-I’m a Master’s student in Computer Science at San Francisco Bay University, Bay Area, specializing in data analysis, software quality assurance, and AI-driven solutions. I enjoy turning complex data into clear insights and building reliable systems that support real-world decision-making.
+Hi 👋 I’m Anjali Panchani, a Master’s student in Computer Science at San Francisco Bay University (Bay Area) with a strong interest in Technical Product & Program Management, Data Analytics, and Software Quality.
 
-I’m actively seeking internships and early-career opportunities in:
+I enjoy working at the intersection of data, software, and execution—translating requirements into structured plans, building analytics-driven insights, and supporting reliable product delivery across cross-functional teams. My background spans technical product analysis, execution tracking, KPI dashboards, and software testing, allowing me to contribute effectively to both product and program workflows.
 
-Data & Business Analytics
-Product & Product Analytics
-AI / ML
-Software QA (including Test Automation)
+I’m currently seeking internship and entry-level opportunities in:
 
-⚡ Technologies & Tools:
+Technical Product / Program Management
 
-Programming & Scripting: Python, SQL, Java, JavaScript
-Data & Analytics: Pandas, NumPy, Excel, Power BI, Tableau
-Web & App Development: HTML/CSS, React, React Native, Node.js
-Databases & Cloud: MySQL, PostgreSQL, MongoDB, Databricks, basic AWS
-QA & Project Management: Manual Testing, JIRA, Postman, Git/GitHub, CI/CD, Agile/Scrum
+Product Analytics & Data Analytics
 
-🔭 Projects:
+Software Quality / QA
 
-Financial Data Prediction Engine – Live Python system predicting financial trends
-ML-Based Shilling Attack Detector – Detects fraudulent behavior in e-commerce platforms
-Music Festival MySQL Database – Complete relational database system
-Connect 4 AI – Built using Minimax with Alpha–Beta pruning
+⚙️ Skills & Tools
 
-💼 Experience:
+Product & Program: Requirements (PRDs/User Stories), Timeline & Milestone Tracking, KPI Tracking, Risk & Dependency Management, Agile/Scrum
 
-Business Data Analyst – Analytics & reporting
-Software Testing Intern – QA and automation
-IT Project Coordinator Intern – Cross-functional project delivery
-Data Analyst Intern – Data analysis and visualization
-​
+Data & Analytics: Python, SQL, Advanced Excel, Power BI, Data Visualization, KPI Dashboards
+
+Programming & Systems: Python, JavaScript, APIs, JSON
+
+Tools: Jira, Confluence, GitHub, Tableau
+
+🔭 Selected Projects
+
+ASCEND AI: Career intelligence platform with resume–job matching and AI-driven insights
+
+Whale Waves Pro: Real-time financial market analytics system using live APIs
+
+Shilling Attack Detection: ML-based anomaly detection using clustering techniques
+
+Connect 4 AI: Adversarial game engine using Minimax with Alpha–Beta pruning
+
+I’m always interested in opportunities where I can support product execution, use data to drive decisions, and improve software quality and delivery.​
 
