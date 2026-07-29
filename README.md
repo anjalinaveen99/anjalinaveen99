@@ -1,34 +1,26 @@
-Hi 👋 I’m Anjali Panchani, a Master’s student in Computer Science at San Francisco Bay University (Bay Area) with a strong interest in Technical Product & Program Management, Data Analytics, and Software Quality.
+Hi 👋 I'm Anjali — a Master's student in Computer Science at San Francisco Bay University, and I work at the intersection of product execution and data.
 
-I enjoy working at the intersection of data, software, and execution—translating requirements into structured plans, building analytics-driven insights, and supporting reliable product delivery across cross-functional teams. My background spans technical product analysis, execution tracking, KPI dashboards, and software testing, allowing me to contribute effectively to both product and program workflows.
+Most of my background is in technical product/program management: writing PRDs, running roadmaps, tracking KPIs, keeping engineering and business stakeholders aligned. I ended up here on GitHub because I like understanding the technical side well enough to actually be useful in those conversations, not just manage around it.
 
-I’m currently seeking internship and entry-level opportunities in:
+Currently looking at:
 
-Technical Product / Program Management
+Technical Program / Product Manager roles
+Data Analyst / Business Analyst roles
+Anything where I can bridge product, data, and execution
 
-Product Analytics & Data Analytics
+Skills & Tools
 
-Software Quality / QA
+Product & Program: PRDs, roadmapping, KPI tracking, risk/dependency management, Agile/Scrum
 
-⚙️ Skills & Tools
+Data & Analytics: Python, SQL, Power BI, Tableau, Advanced Excel
 
-Product & Program: Requirements (PRDs/User Stories), Timeline & Milestone Tracking, KPI Tracking, Risk & Dependency Management, Agile/Scrum
+Tools: Jira, Confluence, Git/GitHub
 
-Data & Analytics: Python, SQL, Advanced Excel, Power BI, Data Visualization, KPI Dashboards
+A few projects
 
-Programming & Systems: Python, JavaScript, APIs, JSON
+ASCEND AI — job intelligence platform that matches resumes to roles and surfaces AI-driven insights
+Whale Waves Pro — real-time analytics dashboard for financial market data using live APIs
+Shilling Attack Detection — ML-based anomaly detection using clustering to catch coordinated fake reviews
+Connect 4 AI — adversarial game engine using Minimax with alpha-beta pruning
 
-Tools: Jira, Confluence, GitHub, Tableau
-
-🔭 Selected Projects
-
-ASCEND AI: Career intelligence platform with resume–job matching and AI-driven insights
-
-Whale Waves Pro: Real-time financial market analytics system using live APIs
-
-Shilling Attack Detection: ML-based anomaly detection using clustering techniques
-
-Connect 4 AI: Adversarial game engine using Minimax with Alpha–Beta pruning
-
-I’m always interested in opportunities where I can support product execution, use data to drive decisions, and improve software quality and delivery.​
-
+If any of this overlaps with what you're working on, feel free to reach out.
