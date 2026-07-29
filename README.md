@@ -1,26 +1,30 @@
-Hi 👋 I'm Anjali — a Master's student in Computer Science at San Francisco Bay University, and I work at the intersection of product execution and data.
+Hi 👋 I'm Anjali — a Master's student in Computer Science at San Francisco Bay University, working at the intersection of product execution and data.
 
-Most of my background is in technical product/program management: writing PRDs, running roadmaps, tracking KPIs, keeping engineering and business stakeholders aligned. I ended up here on GitHub because I like understanding the technical side well enough to actually be useful in those conversations, not just manage around it.
+Most of my background is in technical product/program management — writing PRDs, running roadmaps, tracking KPIs, and keeping engineering and business stakeholders aligned. I'm here on GitHub because I like understanding the technical side well enough to be genuinely useful in those conversations, not just manage around them.
 
-Currently looking at:
+**Currently looking at:**
+- Technical Program / Product Manager roles
+- Data Analyst / Business Analyst roles
+- Anything where I can bridge product, data, and execution
 
-Technical Program / Product Manager roles
-Data Analyst / Business Analyst roles
-Anything where I can bridge product, data, and execution
+## 🛠️ Skills & Tools
 
-Skills & Tools
+**Product & Program:** PRDs, Roadmapping, KPI Tracking, Risk & Dependency Management, Agile/Scrum, Stakeholder Management
 
-Product & Program: PRDs, roadmapping, KPI tracking, risk/dependency management, Agile/Scrum
+**Data & Analytics:** Python, SQL, Power BI, Tableau, Advanced Excel
 
-Data & Analytics: Python, SQL, Power BI, Tableau, Advanced Excel
+**Tools:** Jira, Confluence, Git/GitHub
 
-Tools: Jira, Confluence, Git/GitHub
+## 🚀 Selected Projects
 
-A few projects
+**ASCEND AI** — Job intelligence platform that matches resumes to roles and surfaces AI-driven insights
 
-ASCEND AI — job intelligence platform that matches resumes to roles and surfaces AI-driven insights
-Whale Waves Pro — real-time analytics dashboard for financial market data using live APIs
-Shilling Attack Detection — ML-based anomaly detection using clustering to catch coordinated fake reviews
-Connect 4 AI — adversarial game engine using Minimax with alpha-beta pruning
+**Whale Waves Pro** — Real-time analytics dashboard for financial market data using live APIs
 
-If any of this overlaps with what you're working on, feel free to reach out.
+**Shilling Attack Detection** — ML-based anomaly detection using clustering to identify coordinated fake reviews
+
+**Connect 4 AI** — Adversarial game engine using Minimax with alpha-beta pruning
+
+---
+
+Always interested in opportunities where I can support product execution, use data to drive decisions, and work close enough to the technical side to be useful.
